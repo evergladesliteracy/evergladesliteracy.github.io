@@ -1,0 +1,98 @@
+[
+  {
+    "County": "BROWARD",
+    "Teachers": 488
+  },
+  {
+    "County": "CHARLOTTE",
+    "Teachers": 4
+  },
+  {
+    "County": "COLLIER",
+    "Teachers": 306
+  },
+  {
+    "County": "ESCAMBIA",
+    "Teachers": 10
+  },
+  {
+    "County": "HENDRY",
+    "Teachers": 2
+  },
+  {
+    "County": "HIGHLANDS",
+    "Teachers": 33
+  },
+  {
+    "County": "HILLSBOROUGH",
+    "Teachers": 106
+  },
+  {
+    "County": "LAKE",
+    "Teachers": 1
+  },
+  {
+    "County": "LEE",
+    "Teachers": 52
+  },
+  {
+    "County": "LEON",
+    "Teachers": 20
+  },
+  {
+    "County": "MARTIN",
+    "Teachers": 140
+  },
+  {
+    "County": "MIAMI_DADE",
+    "Teachers": "1,278"
+  },
+  {
+    "County": "MONROE",
+    "Teachers": 31
+  },
+  {
+    "County": "ORANGE",
+    "Teachers": 251
+  },
+  {
+    "County": "OSCEOLA",
+    "Teachers": 64
+  },
+  {
+    "County": "PALM_BEACH",
+    "Teachers": 812
+  },
+  {
+    "County": "PASCO",
+    "Teachers": 109
+  },
+  {
+    "County": "PINELLAS",
+    "Teachers": 21
+  },
+  {
+    "County": "POLK",
+    "Teachers": 9
+  },
+  {
+    "County": "SANTA_ROSA",
+    "Teachers": 10
+  },
+  {
+    "County": "SEMINOLE",
+    "Teachers": 3
+  },
+  {
+    "County": "ST.JOHNS",
+    "Teachers": 1
+  },
+  {
+    "County": "ST_LUCIE",
+    "Teachers": 14
+  },
+  {
+    "County": "VOLUSIA",
+    "Teachers": 2
+  }
+]
