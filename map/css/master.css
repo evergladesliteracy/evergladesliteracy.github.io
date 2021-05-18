@@ -123,7 +123,7 @@ color:#046673;
   padding-right:30px;
   box-sizing: border-box;
   z-index: 500;
-  background: url('/_assets/containerbg.png');
+  background: url('../assets/containerbg.png');
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
@@ -301,7 +301,7 @@ h2 {
   }
 
   main {
-      background: url("/_assets/bg2.png");
+      background: url("../assets/bg2.png");
       background-size: contain;
       background-repeat: no-repeat;
       background-position: top left;
