@@ -1,6 +1,36 @@
 [
   {
     "County": "BROWARD",
+    "School": "Beachside Montessori Village",
+    "Url": "https://www.browardschools.com/beachside"
+  },
+  {
+    "County": "BROWARD",
+    "School": "Central Park Elementary",
+    "Url": "https://www.browardschools.com/centralpark"
+  },
+  {
+    "County": "BROWARD",
+    "School": "Eagle Point Elementary",
+    "Url": "https://www.browardschools.com/eaglepoint"
+  },
+  {
+    "County": "BROWARD",
+    "School": "Riverglades Elementary",
+    "Url": "https://www.browardschools.com/riverglades"
+  },
+  {
+    "County": "BROWARD",
+    "School": "Sheridan Hills Elementary",
+    "Url": "https://www.browardschools.com/sheridanhills"
+  },
+  {
+    "County": "BROWARD",
+    "School": "Surf Skate Science Homeschool",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
     "School": "American Heritage School",
     "Url": ""
   },
@@ -31,23 +61,28 @@
   },
   {
     "County": "BROWARD",
-    "School": "Beachside Montessori Village",
-    "Url": "https://www.browardschools.com/beachside"
+    "School": "Bennett Elementary",
+    "Url": ""
   },
   {
     "County": "BROWARD",
-    "School": "Bennett Elementary",
+    "School": "Blanche Ely High School",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
+    "School": "Boulevard Heights Elementary",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
+    "School": "Boyd H. Anderson High School",
     "Url": ""
   },
   {
     "County": "BROWARD",
     "School": "Central Charter School",
     "Url": ""
-  },
-  {
-    "County": "BROWARD",
-    "School": "Central Park Elementary",
-    "Url": "https://www.browardschools.com/centralpark"
   },
   {
     "County": "BROWARD",
@@ -62,6 +97,11 @@
   {
     "County": "BROWARD",
     "School": "Cooper City Elementary",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
+    "School": "Coral Cove Elementary",
     "Url": ""
   },
   {
@@ -113,11 +153,6 @@
     "County": "BROWARD",
     "School": "Driftwood Middle School",
     "Url": ""
-  },
-  {
-    "County": "BROWARD",
-    "School": "Eagle Point Elementary",
-    "Url": "https://www.browardschools.com/eaglepoint"
   },
   {
     "County": "BROWARD",
@@ -311,6 +346,11 @@
   },
   {
     "County": "BROWARD",
+    "School": "Mirror Lake Elementary",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
     "School": "Monarch High School",
     "Url": ""
   },
@@ -451,6 +491,11 @@
   },
   {
     "County": "BROWARD",
+    "School": "Plantation Middle School",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
     "School": "Plantation Park Elementary",
     "Url": ""
   },
@@ -496,11 +541,6 @@
   },
   {
     "County": "BROWARD",
-    "School": "Riverglades Elementary",
-    "Url": "https://www.browardschools.com/riverglades"
-  },
-  {
-    "County": "BROWARD",
     "School": "Riverland Elementary",
     "Url": ""
   },
@@ -531,8 +571,8 @@
   },
   {
     "County": "BROWARD",
-    "School": "Sheridan Hills Elementary",
-    "Url": "https://www.browardschools.com/sheridanhills"
+    "School": "Seminole Middle School",
+    "Url": ""
   },
   {
     "County": "BROWARD",
@@ -616,17 +656,17 @@
   },
   {
     "County": "BROWARD",
-    "School": "Surf Skate Science Homeschool",
-    "Url": ""
-  },
-  {
-    "County": "BROWARD",
     "School": "Tamarac Elementary",
     "Url": ""
   },
   {
     "County": "BROWARD",
     "School": "Tedder Elementary",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
+    "School": "Tequesta Trace Middle School",
     "Url": ""
   },
   {
@@ -676,7 +716,17 @@
   },
   {
     "County": "BROWARD",
+    "School": "Western High School",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
     "School": "Westwood Heights Elementary",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
+    "School": "Whiddon-Rodgers Education Center",
     "Url": ""
   },
   {
@@ -696,13 +746,18 @@
   },
   {
     "County": "CHARLOTTE",
-    "School": "Lemon Bay High School",
+    "School": "Liberty Elementary",
     "Url": ""
   },
   {
     "County": "CHARLOTTE",
-    "School": "Liberty Elementary",
+    "School": "Lemon Bay High School",
     "Url": ""
+  },
+  {
+    "County": "COLLIER",
+    "School": "Lake Park Elementary",
+    "Url": "https://www.collierschools.com/Domain/34"
   },
   {
     "County": "COLLIER",
@@ -788,11 +843,6 @@
     "County": "COLLIER",
     "School": "Immokalee Middle School",
     "Url": ""
-  },
-  {
-    "County": "COLLIER",
-    "School": "Lake Park Elementary",
-    "Url": "https://www.collierschools.com/Domain/34"
   },
   {
     "County": "COLLIER",
@@ -935,688 +985,68 @@
     "Url": ""
   },
   {
-    "County": "MIAMI_DADE",
-    "School": "AcadeMir Charter School West",
-    "Url": "http://www.academircharterschoolwest.com/"
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Academy for International Education",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Advanced Achievers Academy",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Alpha Charter School of Excellence",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "American Senior High School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Arch Creek Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Auburndale Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Avocado Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Benjamin Franklin K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Biscayne Beach Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Biscayne Gardens Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Blessed Trinity Catholic School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Brentwood Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Broadmoor Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Campbell Drive K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Christina M. Eve Elementary",
-    "Url": "https://cmegators.weebly.com/"
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Citrus Grove Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Coconut Grove Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Coconut Palm K-8 Academy",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Comstock Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Coral Park Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Coral Reef Elementary",
-    "Url": "https://coralreefes.org/"
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Cutler Ridge Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Cypress Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Cypress K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Dante B. Fascell Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "David Lawrence Jr. K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Dr. Carlos J. Finlay Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Dr. Henry W. Mack/West Little River Center K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Dr. Toni Bilbao Preparatory Academy",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "E.W.F. Stirrup Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Eneida M. Hartner Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Ernest R. Graham K-8 Academy",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Eugenia B. Thomas K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Everglades K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Fairlawn Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Fienberg Fisher K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Flagami Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Florida City Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Forest Glen Middle School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Frances Tucker Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Frank C. Martin K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Fulford Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Gateway Environmental K-8 Learning Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "George Washington Carver Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Gertrude K. Edelman/Sabal Palm Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Gloria Floyd Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Greenglade Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Gulfstream Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Gulliver Schools",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Henry E.S. Reeves Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Henry M. Flagler Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Hialeah Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Hialeah Gardens High School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "HIVE Preparatory School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Holy Family Catholic School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Howard Drive Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Irving & Beatrice Peskoe K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Jesse J. McCrary Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "John I. Smith K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Kendale Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Kensington Park Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Kenwood K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Key Biscayne K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Kinloch Park Middle School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Lake Stevens Elementary",
-    "Url": "https://www.lakestevelem.net/"
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Lakeview Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Lincoln Marti",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Madie Ives K-8 Preparatory Academy",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Mae M. Walters Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Mary Help of Christians",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Mater Lakes Academy",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Mater Preparatory Academy",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Maya Angelou Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Melrose Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Miami Arts Studio 6-12 @ Zelda Glazer",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Miami Children's Museum Charter School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Miami Heights Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Miami Lakes K-8 Center",
-    "Url": "https://mlk8center.org/"
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Miami Lakes Middle School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Miami Shores Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Miami Springs Senior High",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Michael Krop High School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Norman S. Edelcup/Sunny Isles Beach K-8",
-    "Url": "http://www.sibk8.net/"
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "North Glade Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "North Hialeah Elementary",
-    "Url": "https://nheschool.org/"
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Oak Grove Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Olympia Heights Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Orchard Villa Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Palm Springs Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Palmer Trinity School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Pinecrest Academy South Charter School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Pinecrest Prep Academy",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Poinciana Park Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Redland Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Ruth K. Broad/Bay Harbor Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Santa Clara Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Santa Fe Academy",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Seminole Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Silver Bluff Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Snapper Creek Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "South Dade Middle School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "South Hialeah Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "South Miami K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "St. Agnes Academy",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "St. Brendan Catholic School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "St. Mark the Evangelist",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "St. Thomas Episcopal Parish School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "St. Thomas the Apostle Parish School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Sunset Park Elementary",
-    "Url": "https://api.dadeschools.net/schoolwebsite/#!/?schoolId=5421%2F"
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Sweetwater Elementary",
-    "Url": "http://api.dadeschools.net/schoolwebsite/#!/?schoolId=5431"
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Sylvania Heights Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Toussaint Louverture Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Tropical Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Twin Lakes Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Van E. Blanton Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Vineland K-8 Center",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Wesley Matthews Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Westminster Christian School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Westview Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Whispering Pines Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "William J. Bryan Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "William Lehman Elementary",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Youth Co-Op Preparatory Charter School",
-    "Url": "https://www.ycps.org/"
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Zora Neale Hurston Elementary",
-    "Url": ""
-  },
-  {
     "County": "HENDRY",
     "School": "Harvest Academy Christian",
     "Url": ""
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "School": "Avon Elementary",
     "Url": ""
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "School": "Avon Park High School",
     "Url": ""
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "School": "Avon Park Middle School",
     "Url": ""
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "School": "Fred Wild Elementary",
     "Url": ""
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "School": "Lake Country Elementary",
     "Url": ""
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "School": "Lake Placid Elementary",
     "Url": ""
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "School": "Lake Placid Middle School",
     "Url": ""
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "School": "Memorial Elementary",
     "Url": ""
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "School": "Park Elementary",
     "Url": ""
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "School": "Sebring High School",
     "Url": ""
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "School": "Sun N Lake Elementary",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
+    "School": "Adams Middle School",
     "Url": ""
   },
   {
@@ -1632,6 +1062,16 @@
   {
     "County": "HILLSBOROUGH",
     "School": "Bevis Elementary",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
+    "School": "Brandon High School",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
+    "School": "Bridgeprep Academy",
     "Url": ""
   },
   {
@@ -1661,7 +1101,17 @@
   },
   {
     "County": "HILLSBOROUGH",
+    "School": "Dunbar Elementary",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
     "School": "E.L. Bing Elementary",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
+    "School": "Exceptional Student Education",
     "Url": ""
   },
   {
@@ -1672,6 +1122,11 @@
   {
     "County": "HILLSBOROUGH",
     "School": "Freedom High School",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
+    "School": "Gaither High School",
     "Url": ""
   },
   {
@@ -1746,6 +1201,11 @@
   },
   {
     "County": "HILLSBOROUGH",
+    "School": "Muller Elementary Magent School",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
     "School": "Northwest Elementary",
     "Url": ""
   },
@@ -1786,7 +1246,17 @@
   },
   {
     "County": "HILLSBOROUGH",
+    "School": "Shaw Elementary",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
     "School": "Sheehy Elementary",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
+    "School": "Stewart Middle School",
     "Url": ""
   },
   {
@@ -1817,6 +1287,11 @@
   {
     "County": "HILLSBOROUGH",
     "School": "Walden Lake Elementary",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
+    "School": "Williams Middle School",
     "Url": ""
   },
   {
@@ -2011,6 +1486,16 @@
   },
   {
     "County": "MARTIN",
+    "School": "Bridges Montessori",
+    "Url": "http://bridgesmontessori.net/Home.aspx"
+  },
+  {
+    "County": "MARTIN",
+    "School": "J.D. Parker Elementary",
+    "Url": "https://www.martinschools.org/jdp"
+  },
+  {
+    "County": "MARTIN",
     "School": "Anderson Middle School",
     "Url": ""
   },
@@ -2018,11 +1503,6 @@
     "County": "MARTIN",
     "School": "Bessey Creek Elementary",
     "Url": ""
-  },
-  {
-    "County": "MARTIN",
-    "School": "Bridges Montessori School",
-    "Url": "http://bridgesmontessori.net/Home.aspx"
   },
   {
     "County": "MARTIN",
@@ -2058,11 +1538,6 @@
     "County": "MARTIN",
     "School": "Indiantown Middle School",
     "Url": ""
-  },
-  {
-    "County": "MARTIN",
-    "School": "J.D. Parker Elementary",
-    "Url": "https://www.martinschools.org/jdp"
   },
   {
     "County": "MARTIN",
@@ -2130,6 +1605,771 @@
     "Url": ""
   },
   {
+    "County": "MIAMI_DADE",
+    "School": "AcadeMir Charter School West",
+    "Url": "http://www.academircharterschoolwest.com/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Advanced Achievers Academy",
+    "Url": "http://myaaaschool.net/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Christina M. Eve Elementary",
+    "Url": "https://cmegators.weebly.com/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Coral Reef Elementary",
+    "Url": "https://coralreefes.org/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Lake Stevens Elementary",
+    "Url": "https://www.lakestevelem.net/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Mater Preparatory Academy",
+    "Url": "https://www.materprepacademy.com/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Miami Lakes K-8 Center",
+    "Url": "https://mlk8center.org/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Norman S. Edelcup/Sunny Isles Beach K-8",
+    "Url": "http://www.sibk8.net/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "North Hialeah Elementary",
+    "Url": "https://nheschool.org/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Sunset Park Elementary",
+    "Url": "https://api.dadeschools.net/schoolwebsite/#!/?schoolId=5421%2F"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Sweetwater Elementary",
+    "Url": "http://api.dadeschools.net/schoolwebsite/#!/?schoolId=5431"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Vineland K-8 Center",
+    "Url": "https://www.vinelandk8.org/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Youth Co-Op Preparatory Charter School",
+    "Url": "https://www.ycps.org/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Academy for International Education",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Alpha Charter School of Excellence",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "American Senior High School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Arch Creek Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Arcola Lake Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Auburndale Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Aventura Waterways K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Avocado Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Banyan Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Benjamin Franklin K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "BioTECH @ Richmond Heights High School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Biscayne Beach Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Biscayne Gardens Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Blessed Trinity Catholic School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Brentwood Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Broadmoor Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Campbell Drive K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Citrus Grove Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Coconut Grove Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Coconut Palm K-8 Academy",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Comstock Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Coral Park Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Coral Terrace Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Cutler Ridge Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Cypress Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Cypress K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Dante B. Fascell Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "David Lawrence Jr. K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Dr. Carlos J. Finlay Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Dr. Henry W. Mack/West Little River Center K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Dr. Rolando Espinosa K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Dr. Toni Bilbao Preparatory Academy",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "E.W.F. Stirrup Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Eneida M. Hartner Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Ernest R. Graham K-8 Academy",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Eugenia B. Thomas K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Everglades K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Fairlawn Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Fienberg Fisher K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Flagami Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Florida City Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Forest Glen Middle School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Frances Tucker Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Frank C. Martin K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Fulford Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Gateway Environmental K-8 Learning Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "George Washington Carver Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Gertrude K. Edelman/Sabal Palm Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Gloria Floyd Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Greenglade Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Gulfstream Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Gulliver Schools",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Henry E.S. Reeves Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Henry M. Flagler Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Hialeah Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Hialeah Gardens High School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Hialeah Senior High School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "HIVE Preparatory School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Holy Family Catholic School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Howard Drive Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Irving & Beatrice Peskoe K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Jesse J. McCrary Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "John I. Smith K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Kendale Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Kendall Square K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Kensington Park Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Kenwood K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Key Biscayne K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Kinloch Park Middle School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Lakeview Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Lenora B. Smith Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Lincoln Marti",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Madie Ives K-8 Preparatory Academy",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Mae M. Walters Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Marjory Stoneman Douglas Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Mary Help of Christians",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Mater Lakes Academy",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Maya Angelou Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Meadowlane Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Melrose Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Miami Arts Studio 6-12 @ Zelda Glazer",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Miami Children's Museum Charter School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Miami Heights Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Miami Lakes Middle School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Miami Shores Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Miami Springs Senior High",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Michael Krop High School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Morningside K-8 Academy",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "North Glade Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Oak Grove Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Olympia Heights Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Orchard Villa Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Palm Springs Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Palmer Trinity School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Pinecrest Academy South Charter School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Pinecrest Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Pinecrest Prep Academy",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Poinciana Park Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Redland Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Riverside Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Robert Morgan Educational Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Robert Renick Educational Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Rockway Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Ruth K. Broad/Bay Harbor Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Santa Clara Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Santa Fe Academy",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Seminole Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Silver Bluff Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Snapper Creek Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Somerset Academy Silver Palms",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "South Dade Middle School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "South Dade Senior High School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "South Hialeah Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "South Miami Heights Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "South Miami K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "South Pointe Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Southside Preparatory Academy",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Spanish Lake Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "St. Agnes Academy",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "St. Brendan Catholic School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "St. Mark the Evangelist",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "St. Thomas Episcopal Parish School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "St. Thomas the Apostle Parish School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Sylvania Heights Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Toussaint Louverture Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Tropical Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Twin Lakes Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Van E. Blanton Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Wesley Matthews Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "West Homestead K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "West Miami Middle School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Westminster Christian School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Westview Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Whispering Pines Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "William J. Bryan Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "William Lehman Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Zora Neale Hurston Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MONROE",
+    "School": "Ocean Studies Charter School",
+    "Url": "https://www.oceanstudiescharterschool.org/"
+  },
+  {
+    "County": "MONROE",
+    "School": "Coral Shores High School",
+    "Url": ""
+  },
+  {
+    "County": "MONROE",
+    "School": "Keys Center Academy",
+    "Url": ""
+  },
+  {
     "County": "MONROE",
     "School": "Key Largo School",
     "Url": ""
@@ -2138,11 +2378,6 @@
     "County": "MONROE",
     "School": "Key West High School",
     "Url": ""
-  },
-  {
-    "County": "MONROE",
-    "School": "Ocean Studies Charter School",
-    "Url": "https://www.oceanstudiescharterschool.org/"
   },
   {
     "County": "MONROE",
@@ -2168,6 +2403,36 @@
     "County": "MONROE",
     "School": "Treasure Village Montessori",
     "Url": ""
+  },
+  {
+    "County": "ORANGE",
+    "School": "Millennia Gardens Elementary",
+    "Url": "https://millenniagardenses.ocps.net/"
+  },
+  {
+    "County": "ORANGE",
+    "School": "Rock Springs Elementary",
+    "Url": "https://rockspringses.ocps.net/"
+  },
+  {
+    "County": "ORANGE",
+    "School": "Sand Lake Elementary",
+    "Url": "https://sandlakees.ocps.net/"
+  },
+  {
+    "County": "ORANGE",
+    "School": "Tildenville Elementary",
+    "Url": "https://tildenvillees.ocps.net/"
+  },
+  {
+    "County": "ORANGE",
+    "School": "Wyndham Lakes Elementary",
+    "Url": "https://wyndhamlakeses.ocps.net/"
+  },
+  {
+    "County": "ORANGE",
+    "School": "Zellwood Elementary",
+    "Url": "https://zellwoodes.ocps.net/"
   },
   {
     "County": "ORANGE",
@@ -2267,6 +2532,11 @@
   {
     "County": "ORANGE",
     "School": "Eccleston Elementary",
+    "Url": ""
+  },
+  {
+    "County": "ORANGE",
+    "School": "Endeavor Elementary",
     "Url": ""
   },
   {
@@ -2381,12 +2651,12 @@
   },
   {
     "County": "ORANGE",
-    "School": "Millennia Gardens Elementary",
-    "Url": "https://millenniagardenses.ocps.net/"
+    "School": "Mollie Ray Elementary",
+    "Url": ""
   },
   {
     "County": "ORANGE",
-    "School": "Mollie Ray Elementary",
+    "School": "Moss Park Elementary",
     "Url": ""
   },
   {
@@ -2456,18 +2726,8 @@
   },
   {
     "County": "ORANGE",
-    "School": "Rock Springs Elementary",
-    "Url": "https://rockspringses.ocps.net/"
-  },
-  {
-    "County": "ORANGE",
     "School": "Rosemont Elementary",
     "Url": ""
-  },
-  {
-    "County": "ORANGE",
-    "School": "Sand Lake Elementary",
-    "Url": "https://sandlakees.ocps.net/"
   },
   {
     "County": "ORANGE",
@@ -2508,11 +2768,6 @@
     "County": "ORANGE",
     "School": "Three Points Elementary",
     "Url": ""
-  },
-  {
-    "County": "ORANGE",
-    "School": "Tildenville Elementary",
-    "Url": "https://tildenvillees.ocps.net/"
   },
   {
     "County": "ORANGE",
@@ -2583,16 +2838,6 @@
     "County": "ORANGE",
     "School": "Wolf Lake Elementary",
     "Url": ""
-  },
-  {
-    "County": "ORANGE",
-    "School": "Wyndham Lakes Elementary",
-    "Url": "https://wyndhamlakeses.ocps.net/"
-  },
-  {
-    "County": "ORANGE",
-    "School": "Zellwood Elementary",
-    "Url": "https://zellwoodes.ocps.net/"
   },
   {
     "County": "OSCEOLA",
@@ -2746,6 +2991,61 @@
   },
   {
     "County": "PALM_BEACH",
+    "School": "American Heritage School of Palm Beach",
+    "Url": "https://www.ahschool.com/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Bright Futures Academy",
+    "Url": "https://www.brightfuturesacademy.com/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Citrus Cove Elementary",
+    "Url": "https://cces.palmbeachschools.org/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Forest Hill Elementary",
+    "Url": "https://fhes.palmbeachschools.org/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Freedom Shores Elementary",
+    "Url": "https://fses.palmbeachschools.org/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Galaxy E3 Elementary",
+    "Url": "https://gxes.palmbeachschools.org/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Gove Elementary",
+    "Url": "https://goves.palmbeachschools.org/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Grandview Preparatory School",
+    "Url": "http://www.grandviewprep.net/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "H.L. Johnson Elementary",
+    "Url": "https://hlje.palmbeachschools.org/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Palm Beach Day Academy",
+    "Url": "https://pbday.org/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Pine Jog Elementary",
+    "Url": "https://pje.palmbeachschools.org/"
+  },
+  {
+    "County": "PALM_BEACH",
     "School": "Academy for Positive Learning",
     "Url": ""
   },
@@ -2753,11 +3053,6 @@
     "County": "PALM_BEACH",
     "School": "Alamanda Elementary",
     "Url": ""
-  },
-  {
-    "County": "PALM_BEACH",
-    "School": "American Heritage School",
-    "Url": "https://www.ahschool.com/"
   },
   {
     "County": "PALM_BEACH",
@@ -2816,22 +3111,12 @@
   },
   {
     "County": "PALM_BEACH",
-    "School": "Bright Futures Academy",
-    "Url": "https://www.brightfuturesacademy.com/"
-  },
-  {
-    "County": "PALM_BEACH",
     "School": "Carver Middle School",
     "Url": ""
   },
   {
     "County": "PALM_BEACH",
     "School": "Christa McAuliffe Middle School",
-    "Url": ""
-  },
-  {
-    "County": "PALM_BEACH",
-    "School": "Citrus Cove Elementary",
     "Url": ""
   },
   {
@@ -2901,11 +3186,6 @@
   },
   {
     "County": "PALM_BEACH",
-    "School": "Forest Hill Elementary",
-    "Url": "https://fhes.palmbeachschools.org/"
-  },
-  {
-    "County": "PALM_BEACH",
     "School": "Forest Hill High School",
     "Url": ""
   },
@@ -2916,16 +3196,6 @@
   },
   {
     "County": "PALM_BEACH",
-    "School": "Freedom Shores Elementary",
-    "Url": "https://fses.palmbeachschools.org/"
-  },
-  {
-    "County": "PALM_BEACH",
-    "School": "Galaxy E3 Elementary",
-    "Url": "https://gxes.palmbeachschools.org/"
-  },
-  {
-    "County": "PALM_BEACH",
     "School": "Glades Central High School",
     "Url": ""
   },
@@ -2933,16 +3203,6 @@
     "County": "PALM_BEACH",
     "School": "Good Vibes Tribe Homeschool Co-Op",
     "Url": ""
-  },
-  {
-    "County": "PALM_BEACH",
-    "School": "Gove Elementary",
-    "Url": "https://goves.palmbeachschools.org/"
-  },
-  {
-    "County": "PALM_BEACH",
-    "School": "Grandview Preparatory School",
-    "Url": "http://www.grandviewprep.net/"
   },
   {
     "County": "PALM_BEACH",
@@ -2958,11 +3218,6 @@
     "County": "PALM_BEACH",
     "School": "Grove Park Elementary",
     "Url": ""
-  },
-  {
-    "County": "PALM_BEACH",
-    "School": "H.L. Johnson Elementary",
-    "Url": "https://hlje.palmbeachschools.org/"
   },
   {
     "County": "PALM_BEACH",
@@ -3176,11 +3431,6 @@
   },
   {
     "County": "PALM_BEACH",
-    "School": "Palm Beach Day Academy",
-    "Url": "https://pbday.org/"
-  },
-  {
-    "County": "PALM_BEACH",
     "School": "Palm Beach Gardens Elementary",
     "Url": ""
   },
@@ -3223,11 +3473,6 @@
     "County": "PALM_BEACH",
     "School": "Pine Grove Elementary",
     "Url": ""
-  },
-  {
-    "County": "PALM_BEACH",
-    "School": "Pine Jog Elementary",
-    "Url": "https://pje.palmbeachschools.org/"
   },
   {
     "County": "PALM_BEACH",
@@ -3406,6 +3651,21 @@
   },
   {
     "County": "PASCO",
+    "School": "Fox Hollow Elementary",
+    "Url": "https://fhes.pasco.k12.fl.us/"
+  },
+  {
+    "County": "PASCO",
+    "School": "Richey Elementary",
+    "Url": "https://res.pasco.k12.fl.us/"
+  },
+  {
+    "County": "PASCO",
+    "School": "Wesley Chapel Elementary",
+    "Url": "https://wces.pasco.k12.fl.us/"
+  },
+  {
+    "County": "PASCO",
     "School": "Achieve Center at Richey",
     "Url": ""
   },
@@ -3446,11 +3706,6 @@
   },
   {
     "County": "PASCO",
-    "School": "Fox Hollow Elementary",
-    "Url": "https://fhes.pasco.k12.fl.us/"
-  },
-  {
-    "County": "PASCO",
     "School": "Gulf Highlands Elementary",
     "Url": ""
   },
@@ -3477,11 +3732,6 @@
   {
     "County": "PASCO",
     "School": "Pine View Elementary",
-    "Url": ""
-  },
-  {
-    "County": "PASCO",
-    "School": "Richey Elementary",
     "Url": ""
   },
   {
@@ -3531,11 +3781,6 @@
   },
   {
     "County": "PASCO",
-    "School": "Wesley Chapel Elementary",
-    "Url": "https://wces.pasco.k12.fl.us/"
-  },
-  {
-    "County": "PASCO",
     "School": "Wiregrass Elementary",
     "Url": ""
   },
@@ -3546,12 +3791,12 @@
   },
   {
     "County": "PINELLAS",
-    "School": "Oak Grove Middle School",
+    "School": "The Athenian Academy",
     "Url": ""
   },
   {
     "County": "PINELLAS",
-    "School": "The Athenian Academy",
+    "School": "Oak Grove Middle School",
     "Url": ""
   },
   {
@@ -3587,7 +3832,7 @@
   {
     "County": "SEMINOLE",
     "School": "Goldsboro Elementary Magnet School",
-    "Url": ""
+    "Url": "http://www.goldsboro.scps.k12.fl.us/"
   },
   {
     "County": "SEMINOLE",
@@ -3636,7 +3881,7 @@
   },
   {
     "County": "ST_LUCIE",
-    "School": "St. Lucie West K-8 ",
+    "School": "St. Lucie West K-8",
     "Url": ""
   },
   {
