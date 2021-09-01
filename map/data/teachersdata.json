@@ -1,7 +1,7 @@
 [
   {
     "County": "BROWARD",
-    "Teachers": 488
+    "Teachers": 509
   },
   {
     "County": "CHARLOTTE",
@@ -20,12 +20,12 @@
     "Teachers": 2
   },
   {
-    "County": "HIGHLANDS",
+    "County": "HIGLANDS",
     "Teachers": 33
   },
   {
     "County": "HILLSBOROUGH",
-    "Teachers": 106
+    "Teachers": 120
   },
   {
     "County": "LAKE",
@@ -41,23 +41,23 @@
   },
   {
     "County": "MARTIN",
-    "Teachers": 140
+    "Teachers": 146
   },
   {
     "County": "MIAMI_DADE",
-    "Teachers": "1,278"
+    "Teachers": "1,431"
   },
   {
     "County": "MONROE",
-    "Teachers": 31
+    "Teachers": 41
   },
   {
     "County": "ORANGE",
-    "Teachers": 251
+    "Teachers": 294
   },
   {
     "County": "OSCEOLA",
-    "Teachers": 64
+    "Teachers": 94
   },
   {
     "County": "PALM_BEACH",
@@ -65,11 +65,11 @@
   },
   {
     "County": "PASCO",
-    "Teachers": 109
+    "Teachers": 122
   },
   {
     "County": "PINELLAS",
-    "Teachers": 21
+    "Teachers": 18
   },
   {
     "County": "POLK",
@@ -84,7 +84,7 @@
     "Teachers": 3
   },
   {
-    "County": "ST.JOHNS",
+    "County": "ST_JOHNS",
     "Teachers": 1
   },
   {
