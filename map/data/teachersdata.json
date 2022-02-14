@@ -1,15 +1,23 @@
 [
   {
+    "County": "ALACHUA",
+    "Teachers": 1
+  },
+  {
+    "County": "BREVARD",
+    "Teachers": 1
+  },
+  {
     "County": "BROWARD",
-    "Teachers": 509
+    "Teachers": 531
   },
   {
     "County": "CHARLOTTE",
-    "Teachers": 4
+    "Teachers": 5
   },
   {
     "County": "COLLIER",
-    "Teachers": 306
+    "Teachers": 312
   },
   {
     "County": "ESCAMBIA",
@@ -25,7 +33,7 @@
   },
   {
     "County": "HILLSBOROUGH",
-    "Teachers": 120
+    "Teachers": 123
   },
   {
     "County": "LAKE",
@@ -33,7 +41,7 @@
   },
   {
     "County": "LEE",
-    "Teachers": 52
+    "Teachers": 71
   },
   {
     "County": "LEON",
@@ -41,43 +49,47 @@
   },
   {
     "County": "MARTIN",
-    "Teachers": 146
+    "Teachers": 157
   },
   {
     "County": "MIAMI_DADE",
-    "Teachers": "1,431"
+    "Teachers": "1,550"
   },
   {
     "County": "MONROE",
-    "Teachers": 41
+    "Teachers": 66
   },
   {
     "County": "ORANGE",
-    "Teachers": 294
+    "Teachers": 314
   },
   {
     "County": "OSCEOLA",
-    "Teachers": 94
+    "Teachers": 95
   },
   {
     "County": "PALM_BEACH",
-    "Teachers": 812
+    "Teachers": 855
   },
   {
     "County": "PASCO",
-    "Teachers": 122
+    "Teachers": 137
   },
   {
     "County": "PINELLAS",
-    "Teachers": 18
+    "Teachers": 19
   },
   {
     "County": "POLK",
-    "Teachers": 9
+    "Teachers": 13
   },
   {
     "County": "SANTA_ROSA",
     "Teachers": 10
+  },
+  {
+    "County": "SARASOTA",
+    "Teachers": 5
   },
   {
     "County": "SEMINOLE",
@@ -85,7 +97,7 @@
   },
   {
     "County": "ST_JOHNS",
-    "Teachers": 1
+    "Teachers": 13
   },
   {
     "County": "ST_LUCIE",
@@ -93,6 +105,6 @@
   },
   {
     "County": "VOLUSIA",
-    "Teachers": 2
+    "Teachers": 3
   }
 ]
