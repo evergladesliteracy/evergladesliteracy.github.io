@@ -1,5 +1,15 @@
 [
   {
+    "County": "ALACHUA",
+    "School": "Howard W. Bishop Middle School",
+    "Url": ""
+  },
+  {
+    "County": "BREVARD",
+    "School": "Quest Elementary",
+    "Url": ""
+  },
+  {
     "County": "BROWARD",
     "School": "Beachside Montessori Village",
     "Url": "https://www.browardschools.com/beachside"
@@ -32,6 +42,11 @@
   {
     "County": "BROWARD",
     "School": "American Heritage School",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
+    "School": "American Heritage School - Plantation",
     "Url": ""
   },
   {
@@ -107,6 +122,11 @@
   {
     "County": "BROWARD",
     "School": "Coral Springs High School",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
+    "School": "Croissant Park Elementary",
     "Url": ""
   },
   {
@@ -756,6 +776,11 @@
   },
   {
     "County": "COLLIER",
+    "School": "Golden Gate Middle School",
+    "Url": "https://www.collierschools.com/domain/27"
+  },
+  {
+    "County": "COLLIER",
     "School": "Lake Park Elementary",
     "Url": "https://www.collierschools.com/Domain/34"
   },
@@ -816,12 +841,17 @@
   },
   {
     "County": "COLLIER",
-    "School": "Golden Gate Middle School",
+    "School": "Golden Terrace Elementary",
     "Url": ""
   },
   {
     "County": "COLLIER",
-    "School": "Golden Terrace Elementary",
+    "School": "Gulf Coast Charter Academy South",
+    "Url": ""
+  },
+  {
+    "County": "COLLIER",
+    "School": "Gulf Coast High School",
     "Url": ""
   },
   {
@@ -1101,6 +1131,11 @@
   },
   {
     "County": "HILLSBOROUGH",
+    "School": "Dowdell Middle Magnet School",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
     "School": "Dunbar Elementary",
     "Url": ""
   },
@@ -1127,6 +1162,11 @@
   {
     "County": "HILLSBOROUGH",
     "School": "Gaither High School",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
+    "School": "Graham Elementary",
     "Url": ""
   },
   {
@@ -1296,12 +1336,22 @@
   },
   {
     "County": "LEE",
+    "School": "Bishop Verot High School",
+    "Url": ""
+  },
+  {
+    "County": "LEE",
     "School": "Bonita Springs Middle School",
     "Url": ""
   },
   {
     "County": "LEE",
     "School": "Canterbury School",
+    "Url": ""
+  },
+  {
+    "County": "LEE",
+    "School": "Cape Coral High School",
     "Url": ""
   },
   {
@@ -1326,7 +1376,17 @@
   },
   {
     "County": "LEE",
+    "School": "East Lee High School",
+    "Url": ""
+  },
+  {
+    "County": "LEE",
     "School": "Estero High School",
+    "Url": ""
+  },
+  {
+    "County": "LEE",
+    "School": "Florida Gulf Coast University",
     "Url": ""
   },
   {
@@ -1347,6 +1407,16 @@
   {
     "County": "LEE",
     "School": "Gateway Charter School",
+    "Url": ""
+  },
+  {
+    "County": "LEE",
+    "School": "Gateway Elementary",
+    "Url": ""
+  },
+  {
+    "County": "LEE",
+    "School": "Hancock Creek Elementary",
     "Url": ""
   },
   {
@@ -1377,6 +1447,11 @@
   {
     "County": "LEE",
     "School": "North Fort Myers Academy for Arts",
+    "Url": ""
+  },
+  {
+    "County": "LEE",
+    "School": "North Fort Myers High School",
     "Url": ""
   },
   {
@@ -1417,6 +1492,11 @@
   {
     "County": "LEE",
     "School": "Trafalgar Elementary",
+    "Url": ""
+  },
+  {
+    "County": "LEE",
+    "School": "Villas Elementary",
     "Url": ""
   },
   {
@@ -1668,6 +1748,11 @@
     "County": "MIAMI_DADE",
     "School": "Youth Co-Op Preparatory Charter School",
     "Url": "https://www.ycps.org/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "AcadeMir Charter School East",
+    "Url": ""
   },
   {
     "County": "MIAMI_DADE",
@@ -1971,7 +2056,17 @@
   },
   {
     "County": "MIAMI_DADE",
+    "School": "Immaculata-La Salle High School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
     "School": "Irving & Beatrice Peskoe K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "iPrep Academy",
     "Url": ""
   },
   {
@@ -1982,6 +2077,11 @@
   {
     "County": "MIAMI_DADE",
     "School": "John I. Smith K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "John G. DuPuis Elementary",
     "Url": ""
   },
   {
@@ -2007,6 +2107,11 @@
   {
     "County": "MIAMI_DADE",
     "School": "Key Biscayne K-8 Center",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Keys Gate Charter High School",
     "Url": ""
   },
   {
@@ -2366,6 +2471,11 @@
   },
   {
     "County": "MONROE",
+    "School": "Horace O'Bryant School",
+    "Url": ""
+  },
+  {
+    "County": "MONROE",
     "School": "Keys Center Academy",
     "Url": ""
   },
@@ -2452,6 +2562,11 @@
   {
     "County": "ORANGE",
     "School": "Avalon Elementary",
+    "Url": ""
+  },
+  {
+    "County": "ORANGE",
+    "School": "Baldwin Park Elementary",
     "Url": ""
   },
   {
@@ -2567,6 +2682,11 @@
   {
     "County": "ORANGE",
     "School": "Ivey Lane Elementary",
+    "Url": ""
+  },
+  {
+    "County": "ORANGE",
+    "School": "Jones High School",
     "Url": ""
   },
   {
@@ -3001,6 +3121,11 @@
   },
   {
     "County": "PALM_BEACH",
+    "School": "Christa McAuliffe Middle School",
+    "Url": "https://cmms.palmbeachschools.org/"
+  },
+  {
+    "County": "PALM_BEACH",
     "School": "Citrus Cove Elementary",
     "Url": "https://cces.palmbeachschools.org/"
   },
@@ -3043,6 +3168,16 @@
     "County": "PALM_BEACH",
     "School": "Pine Jog Elementary",
     "Url": "https://pje.palmbeachschools.org/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Tradewinds Middle School",
+    "Url": "https://trdw.palmbeachschools.org/"
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Turtle River Montessori",
+    "Url": "https://turtlerivermontessori.com/"
   },
   {
     "County": "PALM_BEACH",
@@ -3116,11 +3251,6 @@
   },
   {
     "County": "PALM_BEACH",
-    "School": "Christa McAuliffe Middle School",
-    "Url": ""
-  },
-  {
-    "County": "PALM_BEACH",
     "School": "COT/Kirklane Elementary",
     "Url": ""
   },
@@ -3171,6 +3301,11 @@
   },
   {
     "County": "PALM_BEACH",
+    "School": "Eagles Landing Middle School",
+    "Url": ""
+  },
+  {
+    "County": "PALM_BEACH",
     "School": "Elbridge Gale Elementary",
     "Url": ""
   },
@@ -3192,6 +3327,11 @@
   {
     "County": "PALM_BEACH",
     "School": "Forest Park Elementary",
+    "Url": ""
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Gardens School of Technology Arts",
     "Url": ""
   },
   {
@@ -3521,6 +3661,11 @@
   },
   {
     "County": "PALM_BEACH",
+    "School": "Rosarian Academy",
+    "Url": ""
+  },
+  {
+    "County": "PALM_BEACH",
     "School": "Royal Palm Beach High School",
     "Url": ""
   },
@@ -3592,16 +3737,6 @@
   {
     "County": "PALM_BEACH",
     "School": "Timber Trace Elementary",
-    "Url": ""
-  },
-  {
-    "County": "PALM_BEACH",
-    "School": "Tradewinds Middle School",
-    "Url": ""
-  },
-  {
-    "County": "PALM_BEACH",
-    "School": "Turtle River Montessori",
     "Url": ""
   },
   {
@@ -3821,12 +3956,32 @@
   },
   {
     "County": "POLK",
+    "School": "Lewis Anna Woodbury Elementary",
+    "Url": ""
+  },
+  {
+    "County": "POLK",
     "School": "North Lakeland Elementary",
     "Url": ""
   },
   {
     "County": "POLK",
     "School": "Sandhill Elementary",
+    "Url": ""
+  },
+  {
+    "County": "SARASOTA",
+    "School": "Atwater Elementary",
+    "Url": ""
+  },
+  {
+    "County": "SARASOTA",
+    "School": "Booker Middle School",
+    "Url": ""
+  },
+  {
+    "County": "SARASOTA",
+    "School": "Riverview High School",
     "Url": ""
   },
   {
@@ -3841,7 +3996,7 @@
   },
   {
     "County": "ST_JOHNS",
-    "School": "Palmer Catholic School",
+    "School": "Palmer Catholic Academy",
     "Url": ""
   },
   {
@@ -3882,6 +4037,11 @@
   {
     "County": "ST_LUCIE",
     "School": "St. Lucie West K-8",
+    "Url": ""
+  },
+  {
+    "County": "VOLUSIA",
+    "School": "Deltona Middle School",
     "Url": ""
   },
   {
