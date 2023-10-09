@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Everglades Stories V1</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="assets/slick/slick.css" />
+  <link rel="stylesheet" type="text/css" href="assets/slick/slick-theme.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+ <link href="https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap" rel="stylesheet">
+
+  <style media="screen">
+  .fixHeight {
+    overflow-y: scroll;
+  }
+  iframe {
+    width:100%;
+    min-height: 480px;
+  }
+    body,
+    html {
+      margin: 0;
+      padding: 0
+    }
+
+    .wrapper {
+      display: block;
+      max-width: 1335px;
+      width: 100%;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .map_container {
+      position: relative;
+      margin: 0;
+      padding: 0;
+      display: block;
+      max-width: 100%;
+    }
+
+    .base_image {
+      margin: 0;
+      padding: 0;
+      max-width: 100%;
+      min-width: 100%;
+    }
+
+    .play_layer {
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      top: 0;
+      max-width: 100%;
+    }
+
+    .video {
+      aspect-ratio: 16 / 9;
+      width: 100%;
+    }
+
+    .play:hover {
+      cursor: pointer;
+    }
+
+    img {
+      padding: 5px;
+    }
+
+    img.active {
+      border: 5px solid #C8CF27;
+    }
+
+    .slider {
+      background-image: url('images/Spinner-1s-200px.gif');
+      background-repeat: repeat;
+      background-position: center top;
+      max-height: 170px;
+      overflow: hidden;
+    }
+.slider .th {
+  margin-bottom: 1rem;
+}
+    .slider img {
+      visibility: hidden;
+    }
+
+    .slider.slick-initialized {
+      background-image: none;
+
+    }
+
+    .slider.slick-initialized img {
+      visibility: visible;
+      cursor: pointer;
+    }
+    .slick-next {
+      right:15px;
+      z-index: 5000
+    }
+    .slick-prev {
+      left:15px;
+      z-index: 5000
+    }
+    .slick-prev::before, .slick-next::before {
+      color:#BADA55
+    }
+.th,
+.play {
+  cursor: pointer;
+}
+.col-title h2
+{
+font-family: 'Tilt Warp', cursive;
+text-transform: uppercase;
+font-size: 1.5rem;
+line-height: 1;
+text-align: center;
+ }
+.map_wrapper {
+  padding-right: 0
+}
+.fixHeight {
+  padding-left: 0
+}
+
+#tester {
+  background: url('css/thumbnail_play.png');
+}
+  </style>
+
+
+</head>
+
+<body>
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12 d-none d-sm-none d-md-block map_wrapper">
+
+
+  <div class="wrapper">
+
+    <div class="map_container">
+      <img class="base_image" src="images/map.png" alt="">
+      <div class="play_layer"></div>
+    </div>
+
+  </div>
+</div>
+
+</div>
+
+</div>
+
+  <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  <div class="modal fade modal-xl" id="vids" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-body">
+          <iframe class="video" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <div class="slider responsive"></div>
+          <div class="modal-footer">
+
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Button trigger modal -->
+    <button class="launcher" type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#vids" style="display:none">
+      Launcher
+    </button>
+    <script type="text/javascript" src="assets/slick/slick.min.js"></script>
+    <script type="text/javascript">
+      ids = [];
+      window.currentSlide = '';
+
+      var base = "https://www.youtube.com/embed/";
+
+      //Load the videos and thumbnails
+    var layers = [];
+
+
+
+$(document).on('click','.play', function() {
+
+      var id = $(this).attr('id');
+        $(layers).find("story").each(function(i,story){
+
+          if($(story).find('layer').text() == id) {
+            $('iframe').attr('src', base + $(story).find('video').text() + '?autoplay=1&rel=0');
+
+            $('.launcher').trigger('click');
+
+              window.currentSlide = id;
+          }
+        });
+
+      });
+
+
+
+      const myModalEl = document.getElementById('vids');
+
+      myModalEl.addEventListener('hidden.bs.modal', event => {
+        // do something...
+        $('iframe').attr('src', '');
+      })
+
+      $(function() {
+        $('.play_layer').load('map_text_buttons/layer.svg');
+        $('iframe').attr('src', '');
+        window.setTimeout(function(){
+          $.ajax({
+        url: "layers.xml",
+        }).done(function(data) {
+          layers = data;
+
+        $(data).find('story').each(function(i,story){
+          var _video = $(story).find('video').text();
+          var _thumb = $(story).find('thumb').text();
+          var _layer = $(story).find('layer').text();
+          //$('#' + _layer).removeClass('play');
+          $('#' + _layer).addClass('play');
+
+          var _img = $('<img/>',{ class:"th img-fluid col col-12 " + _layer, src: 'images/' + _thumb});
+          var _slide = $('<img/>',{ class:"th " + _layer, src: 'images/' + _thumb});
+
+
+        //  $('.thumbnails').append(_img);
+
+        });
+      });
+        },2000);
+      });
+    </script>
+
+</body>
+
+</html>

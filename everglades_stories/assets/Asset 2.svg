@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 237.92 55.43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00abbe;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #c6cc28;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: .02em;
+      }
+
+      .cls-6 {
+        fill: #c5cb2e;
+        filter: url(#outer-glow-1);
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2.12px;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: .01em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-11 {
+        letter-spacing: .02em;
+      }
+
+      .cls-12 {
+        font-family: Raleway-ExtraBold, Raleway;
+        font-size: 25.77px;
+        font-weight: 700;
+      }
+
+      .cls-13 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-14 {
+        letter-spacing: .01em;
+      }
+    </style>
+    <filter id="outer-glow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="2.7"/>
+      <feFlood flood-color="#111517" flood-opacity=".5"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Projects_Headline_and_Symbol" data-name="Projects Headline and Symbol">
+    <g>
+      <g>
+        <circle class="cls-6" cx="25.34" cy="25.46" r="16.16"/>
+        <polygon class="cls-2" points="36.35 25.62 18.88 15.53 18.88 35.71 36.35 25.62"/>
+      </g>
+      <text class="cls-12" transform="translate(54.66 25.25)"><tspan class="cls-3"><tspan class="cls-11" x="0" y="0">R</tspan><tspan class="cls-8" x="17.78" y="0">E</tspan><tspan class="cls-9" x="33.35" y="0">S</tspan><tspan class="cls-13" x="49.59" y="0">T</tspan><tspan class="cls-5" x="65.26" y="0">O</tspan><tspan class="cls-7" x="85.36" y="0">R</tspan><tspan class="cls-10" x="102.86" y="0">A</tspan><tspan class="cls-11" x="118.85" y="0">TION</tspan></tspan><tspan class="cls-1"><tspan class="cls-11" x="0" y="24.23">PR</tspan><tspan class="cls-4" x="34.36" y="24.23">O</tspan><tspan class="cls-11" x="53.56" y="24.23">J</tspan><tspan class="cls-8" x="66.81" y="24.23">E</tspan><tspan class="cls-14" x="82.37" y="24.23">C</tspan><tspan class="cls-11" x="100.44" y="24.23">TS</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

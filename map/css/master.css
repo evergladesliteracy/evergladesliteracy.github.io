@@ -1,0 +1,332 @@
+@import "webfonts/fonts.css";
+body,html {
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+}
+main {
+  width: 100%;
+}
+#FLORIDA {
+  margin-right: 7%;
+  display: block;
+  width:71%
+}
+.county {
+  font-size: 1.625em;
+  margin-top:0;
+  margin-bottom: 0;
+}
+.dataContainerWrapper {
+  position: relative;
+}
+
+.impact_map {
+  width:100%;
+  max-width:1524px;
+  display: none;
+  border:3px solid #cccccc;
+  box-sizing: border-box;
+
+
+  position: relative;
+  z-index: 1;
+
+}
+.impact_map svg {
+  display: none;
+}
+.container_header {
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+  align-items: center;
+}
+.champion_schools, .education_team_members {
+  font-size: 1.4375em;
+  font-weight: bold;
+  line-height: 0.957;
+}
+.champion_schools span, .education_team_members a {
+  font-size: 0.7em;
+}
+.total_champion_schools, .teachers_trained_count {
+  font-size:5em;
+  text-align: right;
+}
+.team_list a {
+font-family: 'montserratbold';
+color:#046673;
+}
+.team_list div {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.team_list div * {
+  display: block;
+  padding-bottom: 5px;
+  font-size: 12px;
+}
+.tealcolor {
+  color:#046673;
+}
+.dataclose {
+  text-align: right;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.datakey img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#countySelector {
+  width:100%;
+}
+#countySelector option {
+  padding:10px;
+}.slick-prev, .slick-next {
+  width: 100px;
+  height: 100px;
+}
+.slick-track {
+  margin-left: inherit;
+  margin-right: inherit;
+}
+.slick-prev:before, .slick-next:before,#countySelector {
+  color:#046673;
+  font-size: 3rem;
+  font-weight: bold;
+  border: 3px solid #046673;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.slick-prev {
+  left:25%;
+}
+.slick-next {
+  right:25%;
+}
+.slick-prev, .slick-next {
+  top:105%;
+}
+.dataContainer,.datakey {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5rem;
+  padding-bottom: 4.5rem;
+  width:100%;
+  border-bottom: 20px solid #00aabe;
+  /* background: #f2f281; */
+  padding-left:30px;
+  padding-right:30px;
+  box-sizing: border-box;
+  z-index: 500;
+  background: url('../assets/containerbg.png');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+
+}
+.teachers_trained, .education_team_members {
+  padding-left: 10px;
+}
+.teachers_trained_container {
+  display: grid;
+  grid-template-columns:5fr 7fr;
+  align-items:center;
+  width: 100%;
+}
+.teachers_trained_container img {
+  margin-right: 10px;
+}
+.person_container {
+  text-align: right;
+}
+.shield_container {
+  text-align: center;
+}
+.education_team_members_container {
+  display: grid;
+  grid-template-columns: 5fr 7fr;
+  width: 100%;
+  align-items: center;
+}
+.champion_schools_container {
+  display: grid;
+  grid-template-columns: 5fr 2fr 5fr;
+  align-items: center;
+  }
+  .champion_schools_container img {
+    margin-right:0px;
+  }
+
+.total_champion_schools {
+  display: block;
+  /* align-items: center;
+  justify-content: left; */
+
+}
+
+.team_list {
+  /* display: grid;
+  grid-template-columns: 1fr 1fr; */
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.hasData {
+  fill: #C1C724;
+  stroke: #495119;
+  stroke-width: 0.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 10;
+}
+
+.noData {
+  fill: #7D8F3A;
+  stroke: #495119;
+  stroke-width: 0.5;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-miterlimit: 10;
+}
+
+.text2 {
+  fill: #7D8F3A;
+}
+
+.text3 {
+  font-family: 'montserratregular';
+  font-size:10px;
+}
+
+.text4 {
+  font-size: 10px;
+}
+
+.text5 {
+  fill: #FFFFFF;
+}
+
+.noData.active polygon,
+g.selectable:hover path,
+g.selectable.active polygon,
+g.selectable:hover polygon,
+g.selectable.active path {
+  fill: #f2f281;
+  stroke: #00aabe;
+  stroke-width: 1.5;
+
+}
+.selectable,.close {
+  cursor: pointer;
+}
+g.selectable:hover text,
+g.selectable.active text {
+  /* fill: #f2f281 !important; */
+  fill: #00aabe;
+  font-weight: bold;
+}
+label {position:relative}
+label:after {
+    content:'>';
+    font:36px "Consolas", monospace;
+    color:#046673;
+    -webkit-transform:rotate(90deg);
+    -moz-transform:rotate(90deg);
+    -ms-transform:rotate(90deg);
+    transform:rotate(90deg);
+    right:20px; top:0px; bottom: 8px;
+    padding:0 0 0px;
+    border-bottom:1px solid #ddd;
+    position:absolute;
+    pointer-events:none;
+}
+select {
+    padding:3px;
+    margin: 0;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    -moz-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    background: #f8f8f8;
+    color:#888;
+    border:none;
+    outline:none;
+    display: inline-block;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+    cursor:pointer;
+}
+label:before {
+    content:'';
+    right:6px; top:0px;
+    width:20px; height:20px;
+    background:#f8f8f8;
+    position:absolute;
+    pointer-events:none;
+    display:block;
+}
+#countySelectorContainer {
+  visibility: visible;
+}
+@media(max-width:980px) {
+.team_list div * {
+  font-size: 32px;
+}
+h2 {
+  font-size: 36px;
+}
+.county {
+  font-size:2.5rem;
+}
+.champion_schools, .education_team_members {
+    font-size: 36px;
+}
+.dataContainer {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 5.5rem;
+
+}
+}
+@media(min-width:981px) {
+  #countySelectorContainer {
+    visibility: hidden;
+  }
+
+  main {
+      background: url("../assets/bg2.png");
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: top left;
+      width:1524px;
+  }
+  .impact_map {
+    display: block;
+  }
+  .impact_map svg {
+    max-height: 100%;
+    display: block;
+    float: right;
+
+  }
+  .dataContainer,.datakey {
+
+    position: absolute;
+    left: 30%;
+    bottom: 10px;
+    /* width:630px; */
+    width:35%;
+    min-width:530px;
+    /* -webkit-transform: rotate(-7.5deg);
+    -ms-transform: rotate(-7.5deg);
+        transform: rotate(-7.5deg); */
+
+  }
+}

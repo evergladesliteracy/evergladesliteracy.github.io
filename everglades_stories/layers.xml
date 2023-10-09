@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stories>
+
+  <story>
+    <video>59WKDW75vsU</video>
+    <thumb>c43-hendry-county.png</thumb>
+    <layer>c43-hendry-county</layer>
+  </story>
+
+  <story>
+    <video>lF3d3NbfqAw</video>
+    <thumb>sanibel-captiva-calli.png</thumb>
+    <layer>sanibel-captiva-calli</layer>
+  </story>
+
+  <story>
+    <video>mKIniuoGwzg</video>
+    <thumb>sanibel-captiva-john.png</thumb>
+    <layer>sanibel-captiva-john</layer>
+  </story>
+
+  <story>
+    <video>trZ1-JeBzg0</video>
+    <thumb>naples-female.png</thumb>
+    <layer>naples</layer>
+  </story>
+
+  <story>
+    <video>Wqa2PxOpJwM</video>
+    <thumb>everglades-city.png</thumb>
+    <layer>everglades-city</layer>
+  </story>
+
+  <story>
+    <video>nLPR39tHhlI</video>
+    <thumb>naples-2-female.png</thumb>
+    <layer>naples-2</layer>
+  </story>
+
+  <story>
+    <video>2KNsKz9Q1Ao</video>
+    <thumb>orlando.png</thumb>
+    <layer>orlando</layer>
+  </story>
+
+  <story>
+    <video>LptD_6Oun8U</video>
+    <thumb>miami-dade.png</thumb>
+    <layer>miami-dade</layer>
+  </story>
+
+  <story>
+    <video>hE_ytJaSkdY</video>
+    <thumb>key-largo.png</thumb>
+    <layer>key-largo</layer>
+  </story>
+
+  <story>
+    <video>_KJcAsF--dQ</video>
+    <thumb>isla-morada-female.png</thumb>
+    <layer>isla-morada</layer>
+  </story>
+
+
+</stories>

@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'poppinslight';
+    src: url('poppins-light-webfont.woff2') format('woff2'),
+         url('poppins-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.poppinslight {
+  font-family: 'poppinslight';
+}
+
+
+
+@font-face {
+    font-family: 'ralewayblack';
+    src: url('raleway-black-webfont.woff2') format('woff2'),
+         url('raleway-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.ralewayblack {
+font-family: 'ralewayblack';
+}
+
+
+@font-face {
+    font-family: 'ralewaybold';
+    src: url('raleway-bold-webfont.woff2') format('woff2'),
+         url('raleway-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.ralewaybold {
+  font-family: 'ralewaybold';
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaysemibold';
+    src: url('raleway-semibold-webfont.woff2') format('woff2'),
+         url('raleway-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.ralewaysemibold {
+  font-family: 'ralewaysemibold';
+}
+
+
+
+
+@font-face {
+    font-family: 'oswaldbold';
+    src: url('oswald-bold-webfont.woff2') format('woff2'),
+         url('oswald-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.oswaldbold {
+  font-family: 'oswaldbold';
+}
+
+
+
+@font-face {
+    font-family: 'montserratbold';
+    src: url('montserrat-bold-webfont.woff2') format('woff2'),
+         url('montserrat-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.montserratbold {
+  font-family: 'montserratbold';
+}
+
+
+
+@font-face {
+    font-family: 'montserratregular';
+    src: url('montserrat-regular-webfont.woff2') format('woff2'),
+         url('montserrat-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.montserratregular {
+  font-family: 'montserratregular';
+}
+
+
+
+@font-face {
+    font-family: 'selimaregular';
+    src: url('selima_-webfont.woff2') format('woff2'),
+         url('selima_-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.selimaregular {
+  font-family: 'selimaregular';
+}
