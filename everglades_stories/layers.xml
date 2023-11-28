@@ -21,20 +21,20 @@
 
   <story>
     <video>NIfmDMEEo4o</video>
-    <thumb>Mick(1).png</thumb>
+    <thumb>mick-gnaegy.png</thumb>
     <layer>mick-gnaegy</layer>
   </story>
 
   <story>
     <video>C4bnckuqY8Q</video>
-    <thumb>Elizabeth-Jolin(1).png</thumb>
+    <thumb>elizabeth-jolin.png</thumb>
     <layer>elizabeth-jolin</layer>
   </story>
 
   <story>
     <video>YmpFl3d0Gqo</video>
-    <thumb>Key-Largo-Students(1).png</thumb>
-    <layer>Key-Largo-Students(1)</layer>
+    <thumb>key-largo-students.png</thumb>
+    <layer>key-largo-students</layer>
   </story>
 
   <story>
@@ -63,7 +63,7 @@
 
   <story>
     <video></video>
-    <thumb>Popeye-1.png</thumb>
+    <thumb>william-osceola.png</thumb>
     <layer>william-osceola</layer>
   </story>
 
@@ -87,7 +87,7 @@
 
   <story>
     <video>E_elevfwLMY</video>
-    <thumb>John-Lai(1).png</thumb>
+    <thumb>john-lai.png</thumb>
     <layer>john-lai</layer>
   </story>
 
@@ -99,11 +99,27 @@
 
   <story>
     <video></video>
-    <thumb>wallpaper.png</thumb>
+    <thumb>anesti-vega.png</thumb>
     <layer>anesti-vega</layer>
   </story>
 
+      <story>
+    <video></video>
+    <thumb>wallpaper.png</thumb>
+    <layer>gordon-wareham</layer>
+  </story>
 
+       <story>
+    <video></video>
+    <thumb>wallpaper.png</thumb>
+    <layer>amber-moore</layer>
+  </story>
+    
+      <story>
+    <video></video>
+    <thumb>wallpaper.png</thumb>
+    <layer>tim-harper</layer>
+  </story>
 
 
 
