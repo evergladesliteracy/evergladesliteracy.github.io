@@ -56,13 +56,7 @@
   </story>
 
   <story>
-    <video></video>
-    <thumb>yvette-cano.png</thumb>
-    <layer>yvette-cano</layer>
-  </story>
-
-  <story>
-    <video></video>
+    <video>5Gpd4mOi1iE</video>
     <thumb>william-osceola.png</thumb>
     <layer>william-osceola</layer>
   </story>
@@ -103,16 +97,20 @@
     <layer>anesti-vega</layer>
   </story>
 
-       <story>
+  <story>
     <video></video>
     <thumb>amber-moore.png</thumb>
     <layer>amber-moore</layer>
   </story>
     
-      <story>
+  <story>
     <video></video>
     <thumb>tim-harper.png</thumb>
     <layer>tim-harper</layer>
   </story>
 
-</stories>
+ <story>
+    <video></video>
+    <thumb>yvette-cano.png</thumb>
+    <layer>yvette-cano</layer>
+  </story>
