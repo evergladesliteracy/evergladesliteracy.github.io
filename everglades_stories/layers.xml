@@ -92,12 +92,6 @@
   </story>
 
   <story>
-    <video></video>
-    <thumb>anesti-vega.png</thumb>
-    <layer>anesti-vega</layer>
-  </story>
-
-  <story>
     <video>3w9AJhz7C3o</video>
     <thumb>amber-moore.png</thumb>
     <layer>amber-moore</layer>
@@ -108,9 +102,15 @@
     <thumb>tim-harper.png</thumb>
     <layer>tim-harper</layer>
   </story>
-
- <story>
+    
+    <story>
     <video></video>
-    <thumb>yvette-cano.png</thumb>
-    <layer>yvette-cano</layer>
+    <thumb>anesti-vega.png</thumb>
+    <layer>anesti-vega</layer>
+  </story>
+    
+      <story>
+    <video></video>
+    <thumb>franklin-adams.png</thumb>
+    <layer>franklin-adams</layer>
   </story>
