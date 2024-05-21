@@ -61,16 +61,6 @@
   },
   {
     "County": "BROWARD",
-    "School": "McArthur High School",
-    "Url": "https://www.browardschools.com/mcarthur"
-  },
-  {
-    "County": "BROWARD",
-    "School": "Pembroke Pines Charter High School",
-    "Url": "http://academicvillage.pinescharter.net/"
-  },
-  {
-    "County": "BROWARD",
     "School": "Riverglades Elementary",
     "Url": "https://www.browardschools.com/riverglades"
   },
@@ -81,11 +71,6 @@
   },
   {
     "County": "BROWARD",
-    "School": "South Plantation High School",
-    "Url": "https://www.browardschools.com/southplantation"
-  },
-  {
-    "County": "BROWARD",
     "School": "Surf Skate Science",
     "Url": "https://www.surfskatescience.com/"
   },
@@ -93,11 +78,6 @@
     "County": "BROWARD",
     "School": "Tequesta Trace Middle School",
     "Url": "https://www.browardschools.com/tequestatrace"
-  },
-  {
-    "County": "BROWARD",
-    "School": "The City of Deerfield Beach Teen Center",
-    "Url": "https://www.deerfield-beach.com/1302/Teen-Center"
   },
   {
     "County": "BROWARD",
@@ -986,11 +966,6 @@
   },
   {
     "County": "COLLIER",
-    "School": "Community School of Naples",
-    "Url": "https://www.communityschoolnaples.org/"
-  },
-  {
-    "County": "COLLIER",
     "School": "Golden Gate Middle School",
     "Url": "https://www.collierschools.com/domain/27"
   },
@@ -1006,11 +981,6 @@
   },
   {
     "County": "COLLIER",
-    "School": "Oakridge Middle School",
-    "Url": "https://www.collierschools.com/OMS"
-  },
-  {
-    "County": "COLLIER",
     "School": "Parkside Elementary",
     "Url": "https://www.collierschools.com/PSE"
   },
@@ -1018,11 +988,6 @@
     "County": "COLLIER",
     "School": "Poinciana Elementary",
     "Url": "https://www.collierschools.com/PES"
-  },
-  {
-    "County": "COLLIER",
-    "School": "St. Elizabeth Seton Catholic School",
-    "Url": "https://saintelizabethseton.com/"
   },
   {
     "County": "COLLIER",
@@ -1333,16 +1298,6 @@
     "County": "HIGLANDS",
     "School": "Sun N Lake Elementary",
     "Url": ""
-  },
-  {
-    "County": "HILLSBOROUGH",
-    "School": "Newsome High School",
-    "Url": "https://www.hillsboroughschools.org/newsome"
-  },
-  {
-    "County": "HILLSBOROUGH",
-    "School": "Wilson Middle School",
-    "Url": "https://www.hillsboroughschools.org/wilsonms"
   },
   {
     "County": "HILLSBOROUGH",
@@ -2538,11 +2493,6 @@
     "County": "MIAMI_DADE",
     "School": "G. Holmes Braddock Senior High School",
     "Url": "https://www.braddockbulldogs.org/"
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "John A. Ferguson Senior High School",
-    "Url": "https://www.fergusonhs.org/"
   },
   {
     "County": "MIAMI_DADE",
@@ -5408,11 +5358,6 @@
     "County": "ST_LUCIE",
     "School": "Morningside Elementary",
     "Url": "https://schools.stlucie.k12.fl.us/mse/"
-  },
-  {
-    "County": "ST_LUCIE",
-    "School": "Palm Pointe Educational Research School",
-    "Url": "https://tradition.fau.edu/"
   },
   {
     "County": "ST_LUCIE",
