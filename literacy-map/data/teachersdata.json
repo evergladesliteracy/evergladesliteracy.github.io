@@ -9,7 +9,7 @@
   },
   {
     "County": "BROWARD",
-    "Teachers": 737
+    "Teachers": 767
   },
   {
     "County": "CHARLOTTE",
@@ -17,7 +17,7 @@
   },
   {
     "County": "COLLIER",
-    "Teachers": 535
+    "Teachers": 548
   },
   {
     "County": "DUVAL",
@@ -32,7 +32,7 @@
     "Teachers": 2
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "Teachers": 33
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "County": "INDIAN_RIVER",
-    "Teachers": 29
+    "Teachers": 30
   },
   {
     "County": "LAKE",
@@ -49,7 +49,7 @@
   },
   {
     "County": "LEE",
-    "Teachers": 334
+    "Teachers": 410
   },
   {
     "County": "LEON",
@@ -61,15 +61,15 @@
   },
   {
     "County": "MARTIN",
-    "Teachers": 308
+    "Teachers": 321
   },
   {
     "County": "MIAMI_DADE",
-    "Teachers": "2,003"
+    "Teachers": "2,069"
   },
   {
     "County": "MONROE",
-    "Teachers": 120
+    "Teachers": 137
   },
   {
     "County": "ORANGE",
@@ -81,7 +81,7 @@
   },
   {
     "County": "PALM_BEACH",
-    "Teachers": "1,061"
+    "Teachers": "1,067"
   },
   {
     "County": "PASCO",
@@ -101,7 +101,7 @@
   },
   {
     "County": "SARASOTA",
-    "Teachers": 94
+    "Teachers": 101
   },
   {
     "County": "SEMINOLE",
@@ -113,7 +113,7 @@
   },
   {
     "County": "ST_LUCIE",
-    "Teachers": 240
+    "Teachers": 280
   },
   {
     "County": "VOLUSIA",
