@@ -61,13 +61,13 @@
   },
   {
     "County": "BROWARD",
-    "School": "Panther Run Elementary",
-    "Url": "https://www.browardschools.com/pantherrun"
+    "School": "Harbordale Elementary",
+    "Url": "https://www.browardschools.com/harbordale"
   },
   {
     "County": "BROWARD",
-    "School": "McArthur High School",
-    "Url": "https://www.browardschools.com/mcarthur"
+    "School": "Panther Run Elementary",
+    "Url": "https://www.browardschools.com/pantherrun"
   },
   {
     "County": "BROWARD",
@@ -182,6 +182,11 @@
   {
     "County": "BROWARD",
     "School": "Charles W. Flanagan High School",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
+    "School": "Colbert Elementary",
     "Url": ""
   },
   {
@@ -321,6 +326,11 @@
   },
   {
     "County": "BROWARD",
+    "School": "Gator Run Elementary",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
     "School": "Griffin Elementary",
     "Url": ""
   },
@@ -332,11 +342,6 @@
   {
     "County": "BROWARD",
     "School": "Gulfstream Middle School",
-    "Url": ""
-  },
-  {
-    "County": "BROWARD",
-    "School": "Harbordale Elementary",
     "Url": ""
   },
   {
@@ -456,6 +461,11 @@
   },
   {
     "County": "BROWARD",
+    "School": "McArthur High School",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
     "School": "McNab Elementary",
     "Url": ""
   },
@@ -537,6 +547,11 @@
   {
     "County": "BROWARD",
     "School": "North Lauderdale K-8",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
+    "School": "North Side Elementary",
     "Url": ""
   },
   {
@@ -876,6 +891,11 @@
   },
   {
     "County": "BROWARD",
+    "School": "West Hollywood Elementary",
+    "Url": ""
+  },
+  {
+    "County": "BROWARD",
     "School": "Westchester Elementary",
     "Url": ""
   },
@@ -913,6 +933,11 @@
     "County": "BROWARD",
     "School": "Winston Park Elementary",
     "Url": ""
+  },
+  {
+    "County": "CHARLOTTE",
+    "School": "Myakka River Elementary",
+    "Url": "https://www.yourcharlotteschools.net/mre"
   },
   {
     "County": "CHARLOTTE",
@@ -967,11 +992,6 @@
   {
     "County": "CHARLOTTE",
     "School": "Murdock Middle School",
-    "Url": ""
-  },
-  {
-    "County": "CHARLOTTE",
-    "School": "Myakka River Elementary",
     "Url": ""
   },
   {
@@ -1112,6 +1132,11 @@
   {
     "County": "COLLIER",
     "School": "Everglades City School",
+    "Url": ""
+  },
+  {
+    "County": "COLLIER",
+    "School": "Freedom Institute",
     "Url": ""
   },
   {
@@ -1310,64 +1335,59 @@
     "Url": ""
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "School": "Avon Elementary",
     "Url": ""
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "School": "Avon Park High School",
     "Url": ""
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "School": "Avon Park Middle School",
     "Url": ""
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "School": "Fred Wild Elementary",
     "Url": ""
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "School": "Lake Country Elementary",
     "Url": ""
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "School": "Lake Placid Elementary",
     "Url": ""
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "School": "Lake Placid Middle School",
     "Url": ""
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "School": "Memorial Elementary",
     "Url": ""
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "School": "Park Elementary",
     "Url": ""
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "School": "Sebring High School",
     "Url": ""
   },
   {
-    "County": "HIGLANDS",
+    "County": "HIGHLANDS",
     "School": "Sun N Lake Elementary",
     "Url": ""
-  },
-  {
-    "County": "HILLSBOROUGH",
-    "School": "Newsome High School",
-    "Url": "https://www.hillsboroughschools.org/newsome"
   },
   {
     "County": "HILLSBOROUGH",
@@ -1656,6 +1676,11 @@
   },
   {
     "County": "HILLSBOROUGH",
+    "School": "Newsome High School",
+    "Url": ""
+  },
+  {
+    "County": "HILLSBOROUGH",
     "School": "Northwest Elementary",
     "Url": ""
   },
@@ -1867,6 +1892,11 @@
   {
     "County": "INDIAN_RIVER",
     "School": "Sebastian River High School",
+    "Url": ""
+  },
+  {
+    "County": "INDIAN_RIVER",
+    "School": "Storm Grove Middle School",
     "Url": ""
   },
   {
@@ -2321,11 +2351,6 @@
   },
   {
     "County": "MANATEE",
-    "School": "Manatee High School",
-    "Url": "https://www.manateeschools.net/manatee"
-  },
-  {
-    "County": "MANATEE",
     "School": "Bayshore High School",
     "Url": ""
   },
@@ -2372,6 +2397,11 @@
   {
     "County": "MANATEE",
     "School": "Manatee Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MANATEE",
+    "School": "Manatee High School",
     "Url": ""
   },
   {
@@ -2641,11 +2671,6 @@
   },
   {
     "County": "MIAMI_DADE",
-    "School": "South Dade Senior High School",
-    "Url": "https://sdshs.net/"
-  },
-  {
-    "County": "MIAMI_DADE",
     "School": "St. Michael the Archangel Catholic School",
     "Url": "http://stmacs.org/"
   },
@@ -2678,6 +2703,16 @@
     "County": "MIAMI_DADE",
     "School": "Whispering Pines Elementary",
     "Url": "https://wpelem.net/"
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "AcadeMir Charter School of Math and Science",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "AcadeMir Preparatory Academy",
+    "Url": ""
   },
   {
     "County": "MIAMI_DADE",
@@ -2787,6 +2822,11 @@
   {
     "County": "MIAMI_DADE",
     "School": "Blessed Trinity Catholic School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "Bob Graham Education Center",
     "Url": ""
   },
   {
@@ -3151,6 +3191,11 @@
   },
   {
     "County": "MIAMI_DADE",
+    "School": "John A. Ferguson Senior High School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
     "School": "John G. DuPuis Elementary",
     "Url": ""
   },
@@ -3326,6 +3371,11 @@
   },
   {
     "County": "MIAMI_DADE",
+    "School": "Miami Norland Senior High",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
     "School": "Miami PAL",
     "Url": ""
   },
@@ -3346,17 +3396,17 @@
   },
   {
     "County": "MIAMI_DADE",
+    "School": "Miami Springs Elementary",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
     "School": "Miami Springs Senior High School",
     "Url": ""
   },
   {
     "County": "MIAMI_DADE",
     "School": "Michael Krop High School",
-    "Url": ""
-  },
-  {
-    "County": "MIAMI_DADE",
-    "School": "Miramar High School",
     "Url": ""
   },
   {
@@ -3517,6 +3567,11 @@
   {
     "County": "MIAMI_DADE",
     "School": "South Dade Middle School",
+    "Url": ""
+  },
+  {
+    "County": "MIAMI_DADE",
+    "School": "South Dade Senior High School",
     "Url": ""
   },
   {
@@ -3747,6 +3802,11 @@
   {
     "County": "MONROE",
     "School": "Treasure Village Montessori",
+    "Url": ""
+  },
+  {
+    "County": "MONROE",
+    "School": "Seacamp Association Inc.",
     "Url": ""
   },
   {
@@ -4616,7 +4676,12 @@
   },
   {
     "County": "PALM_BEACH",
-    "School": "COT/Kirklane Elementary",
+    "School": "Clifford O.Taylor/Kirklane Elementary",
+    "Url": ""
+  },
+  {
+    "County": "PALM_BEACH",
+    "School": "Cocoplum Nature School",
     "Url": ""
   },
   {
@@ -4816,7 +4881,7 @@
   },
   {
     "County": "PALM_BEACH",
-    "School": "KEC/Canal Point Elementary",
+    "School": "K.E.C/Canal Point Elementary",
     "Url": ""
   },
   {
@@ -5516,6 +5581,11 @@
   },
   {
     "County": "SARASOTA",
+    "School": "Roots Nature & Leadership Academy",
+    "Url": ""
+  },
+  {
+    "County": "SARASOTA",
     "School": "Sarasota High School",
     "Url": ""
   },
@@ -5598,11 +5668,6 @@
     "County": "ST_LUCIE",
     "School": "Morningside Elementary",
     "Url": "https://schools.stlucie.k12.fl.us/mse/"
-  },
-  {
-    "County": "ST_LUCIE",
-    "School": "Palm Pointe Educational Research School",
-    "Url": "https://tradition.fau.edu/"
   },
   {
     "County": "ST_LUCIE",
@@ -5692,6 +5757,11 @@
   {
     "County": "ST_LUCIE",
     "School": "Oceanographic Academy",
+    "Url": ""
+  },
+  {
+    "County": "ST_LUCIE",
+    "School": "Palm Pointe Educational Research School",
     "Url": ""
   },
   {
